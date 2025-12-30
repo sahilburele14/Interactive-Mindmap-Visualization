@@ -65,7 +65,8 @@ Update color values in the JSON data file.
 Modify `src/utils/layoutCalculator.js` for different layouts.
 
 ## 📁 Project Structure
-````
+
+
 mindmap-visualization/
 ├── src/
 │   ├── components/       # React components
@@ -110,6 +111,7 @@ Fit view
 <img width="923" height="859" alt="image" src="https://github.com/user-attachments/assets/5fcc470a-5601-4e3a-bca0-38aa3a3ff7ec" />
 Add Note Section
 <img width="929" height="876" alt="image" src="https://github.com/user-attachments/assets/8fc8837e-7e31-43e1-9346-b647d88fbc1c" />
+
 
 
 
