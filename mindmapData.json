@@ -1,0 +1,159 @@
+{
+  "id": "root",
+  "label": "Vitamins in Human Body",
+  "summary": "Essential micronutrients required for normal metabolic function, growth, and overall health, typically obtained through diet. They are vital for diverse bodily processes, including energy production, immune defense, and cellular repair, playing a crucial role in preventing various diseases and maintaining overall well-being.",
+  "color": "#60A5FA",
+  "size": "large",
+  "children": [
+    {
+      "id": "dietary-sources",
+      "label": "Dietary Sources",
+      "summary": "Vitamins are obtained from various food sources including fruits, vegetables, grains, dairy products, and animal proteins. Different vitamins are found in different food groups, making a balanced diet essential for adequate vitamin intake.",
+      "color": "#86EFAC",
+      "children": [
+        {
+          "id": "fruits-veggies",
+          "label": "Fruits & Vegetables",
+          "summary": "Rich sources of vitamins A, C, K, and folate. Colorful fruits and vegetables provide a wide array of vitamins essential for health.",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "grains-nuts",
+          "label": "Grains & Nuts",
+          "summary": "Excellent sources of B vitamins and vitamin E. Whole grains and nuts provide sustained energy and antioxidant protection.",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "meat-dairy",
+          "label": "Meat & Dairy",
+          "summary": "Primary sources of vitamin B12, D, and A. Animal products provide vitamins that are harder to obtain from plant sources.",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "fortified-foods",
+          "label": "Fortified & Enriched",
+          "summary": "Foods enhanced with additional vitamins to prevent deficiencies. Common in cereals, milk, and bread products.",
+          "color": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "health-impact",
+      "label": "Health Impact & Balance",
+      "summary": "Maintaining adequate vitamin levels is crucial, as both deficiencies (hypovitaminosis) and excesses (hypervitaminosis) can lead to health problems. These imbalances can manifest in a range of symptoms and conditions, significantly affecting long-term health and quality of life if not addressed.",
+      "color": "#86EFAC",
+      "children": [
+        {
+          "id": "deficiency",
+          "label": "Deficiency",
+          "summary": "Hypovitaminosis occurs when vitamin intake is insufficient. Can lead to serious conditions like scurvy (vitamin C), rickets (vitamin D), and anemia (B vitamins).",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "excess",
+          "label": "Excess",
+          "summary": "Hypervitaminosis results from excessive vitamin intake, particularly fat-soluble vitamins. Can cause toxicity and adverse health effects.",
+          "color": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "key-roles",
+      "label": "Key Bodily Roles",
+      "summary": "Vitamins serve critical functions throughout the body, from cellular energy production to immune system support. Each vitamin has specific roles that contribute to overall health and physiological function.",
+      "color": "#86EFAC",
+      "children": [
+        {
+          "id": "antioxidant",
+          "label": "Antioxidant Protection",
+          "summary": "Vitamins C and E protect cells from oxidative damage by neutralizing free radicals, reducing the risk of chronic diseases.",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "bone-health",
+          "label": "Bone Health",
+          "summary": "Vitamins D and K are essential for calcium absorption and bone mineralization, preventing osteoporosis and fractures.",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "immune-support",
+          "label": "Immune System Support",
+          "summary": "Vitamins A, C, D, and B6 strengthen immune response, helping the body fight infections and maintain overall health.",
+          "color": "#FCD34D"
+        },
+        {
+          "id": "energy-metabolism",
+          "label": "Energy Metabolism",
+          "summary": "B vitamins are crucial for converting food into energy, supporting cellular metabolism and ATP production.",
+          "color": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "classification",
+      "label": "Vitamin Classification",
+      "summary": "Vitamins are primarily classified based on their solubility in fats or water, which dictates their absorption, storage, and excretion mechanisms in the body. This fundamental distinction influences dietary intake recommendations, potential for toxicity, and how they are utilized by different physiological systems.",
+      "color": "#86EFAC",
+      "children": [
+        {
+          "id": "fat-soluble",
+          "label": "Fat-Soluble Vitamins",
+          "summary": "Vitamins A, D, E, and K are absorbed with dietary fats and stored in body tissues. Can accumulate to toxic levels if consumed excessively.",
+          "color": "#FCD34D",
+          "children": [
+            {
+              "id": "vitamin-a",
+              "label": "Vitamin A",
+              "summary": "Essential for vision, immune function, and skin health. Found in liver, dairy, and orange vegetables.",
+              "color": "#DDD6FE"
+            },
+            {
+              "id": "vitamin-d",
+              "label": "Vitamin D",
+              "summary": "Critical for bone health and calcium absorption. Synthesized by skin from sunlight exposure.",
+              "color": "#DDD6FE"
+            },
+            {
+              "id": "vitamin-e",
+              "label": "Vitamin E",
+              "summary": "Powerful antioxidant protecting cell membranes. Found in nuts, seeds, and vegetable oils.",
+              "color": "#DDD6FE"
+            },
+            {
+              "id": "vitamin-k",
+              "label": "Vitamin K",
+              "summary": "Essential for blood clotting and bone metabolism. Found in leafy greens and fermented foods.",
+              "color": "#DDD6FE"
+            }
+          ]
+        },
+        {
+          "id": "water-soluble",
+          "label": "Water-Soluble Vitamins",
+          "summary": "B vitamins and vitamin C dissolve in water and are not stored extensively. Excess amounts are excreted, requiring regular dietary intake.",
+          "color": "#FCD34D",
+          "children": [
+            {
+              "id": "vitamin-c",
+              "label": "Vitamin C",
+              "summary": "Powerful antioxidant and immune booster. Essential for collagen synthesis and wound healing.",
+              "color": "#DDD6FE"
+            },
+            {
+              "id": "b-complex",
+              "label": "B-Complex Vitamins",
+              "summary": "Eight vitamins (B1, B2, B3, B5, B6, B7, B9, B12) that support energy production, brain function, and red blood cell formation.",
+              "color": "#DDD6FE"
+            },
+            {
+              "id": "vitamin-b9",
+              "label": "Vitamin B9",
+              "summary": "Folate/Folic acid is crucial for DNA synthesis and cell division. Especially important during pregnancy.",
+              "color": "#DDD6FE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
