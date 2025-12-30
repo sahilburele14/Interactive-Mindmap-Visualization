@@ -101,16 +101,27 @@ Inspired by interactive knowledge graphs
 
 **Screenshot**
 <img width="929" height="870" alt="image" src="https://github.com/user-attachments/assets/85356f32-a644-4a0d-8559-a25729ae85bd" />
+
 After Click on Expand All
+
 <img width="917" height="862" alt="image" src="https://github.com/user-attachments/assets/db81adfb-b0ac-4be1-b894-323db527a29d" />
-After Click on Drill down 
+
+After Click on Drill down
+
 <img width="924" height="867" alt="image" src="https://github.com/user-attachments/assets/0da00ff3-4eb1-4f95-902f-543c91b7abd9" />
+
 After Click on Drill up
+
 <img width="931" height="858" alt="image" src="https://github.com/user-attachments/assets/98881128-368a-42c0-930d-0c3ee44f7ef2" />
+
 Fit view
+
 <img width="923" height="859" alt="image" src="https://github.com/user-attachments/assets/5fcc470a-5601-4e3a-bca0-38aa3a3ff7ec" />
+
 Add Note Section
+
 <img width="929" height="876" alt="image" src="https://github.com/user-attachments/assets/8fc8837e-7e31-43e1-9346-b647d88fbc1c" />
+
 
 
 
